@@ -8,7 +8,6 @@ Table1- Customer's Information
 
 Table2- Customer's Order
 
-#SQL Queiries
+# SQL Queiries
 SELECT * FROM customer WHERE ORnum>1425;
 
-image
