@@ -10,6 +10,7 @@ Table2- Customer's Order
 
 # SQL Queiries
 1.Selecting all information from customer Table from ORnum 1425
+
 SELECT * FROM customer WHERE ORnum>1425;
 
 ![1](https://user-images.githubusercontent.com/73306480/103623898-bc110f00-4f73-11eb-994b-e493d28f8a3c.png)
