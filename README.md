@@ -9,5 +9,5 @@ Table1- Customer's Information
 Table2- Customer's Order
 
 # SQL Queiries
-SELECT * FROM customer WHERE ORnum>1425;
-
+1. SELECT * FROM customer WHERE ORnum>1425;
+![1](https://user-images.githubusercontent.com/73306480/103623898-bc110f00-4f73-11eb-994b-e493d28f8a3c.png)
