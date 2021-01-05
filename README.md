@@ -5,4 +5,5 @@ This database talks about the lists of customer's orders including their basic i
 # Database Table
 
 Table1- Customer's Information
+
 Table2- Customer's Order
