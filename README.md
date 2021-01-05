@@ -25,7 +25,10 @@ SELECT t.ORnum, t.Name, t.Address, t.ContactNo, ti.Product, ti.Quantity, ti.Tota
 
 ![3](https://user-images.githubusercontent.com/73306480/103624308-4d808100-4f74-11eb-912f-71b9047ed691.png)
 
-4. Ascending order based on the Quantity of the Products
+4.Ascending order based on the Quantity of the Products
 SELECT * FROM myorders ORDER BY Quantity ASC;
 
 ![4](https://user-images.githubusercontent.com/73306480/103624335-55402580-4f74-11eb-9894-e16545c4d2e4.png)
+
+5. 
+
