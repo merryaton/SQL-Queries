@@ -7,3 +7,8 @@ This database talks about the lists of customer's orders including their basic i
 Table1- Customer's Information
 
 Table2- Customer's Order
+
+#SQL Queiries
+SELECT * FROM customer WHERE ORnum>1425;
+
+image
